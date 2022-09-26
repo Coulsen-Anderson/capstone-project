@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Back",
+        "picture": "back.jpg",
+        "Description": ""
+
+    },
+    {
+        "id": 2,
+        "name": "Biceps",
+        "picture": "biceps.jpg",
+        "Description": ""
+    },
+    {
+        "id": 3,
+        "name": "Triceps",
+        "picture": "triceps.jpg",
+        "Description": ""
+    },
+    {
+        "id": "4",
+        "name": "Chest",
+        "picture": "chest.jpg",
+        "Description": ""
+    }
+]
